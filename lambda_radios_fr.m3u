@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip
+https://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Rock
+https://icecast.radiofrance.fr/fiprock-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Jazz
+https://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Groove
+https://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Electro
+https://icecast.radiofrance.fr/fipelectro-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Monde
+https://icecast.radiofrance.fr/fipworld-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Reggae
+https://icecast.radiofrance.fr/fipreggae-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" radio="true",Fip Nouveautés
+https://icecast.radiofrance.fr/fipnouveautes-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" radio="true",France Culture
+https://icecast.radiofrance.fr/franceculture-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/500px-Franceinfo.svg.png" radio="true",France Info
+https://icecast.radiofrance.fr/franceinfo-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/France_inter_2005_logo.svg/1024px-France_inter_2005_logo.svg.png" radio="true",France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique
+https://icecast.radiofrance.fr/francemusique-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique Classique Easy
+https://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique Opéra
+https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique La Baroque
+https://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique Classique Plus
+https://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique Concerts Radio France
+https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique La Jazz
+https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique La Contemporaine
+https://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique Ocora Musiques du Monde
+https://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac
+#EXTINF:-1 group-title="Radios francophones" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" radio="true",France Musique La B.O. Musiques de Films
+https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
